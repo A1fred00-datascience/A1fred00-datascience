@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about using data to solve real-worl
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/alfredoserrano-datascientist/]
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/alfredoserrano-datascientist/)
 - **Podcast:** [The Analytics Experience](https://open.spotify.com/show/5r05Ey4oEfhSOqg2Iai0Rk?si=b476832ca7ac4241)
 - **Instagram Account** [The Analytics Experience](https://www.instagram.com/theanalyticsexp/)
 
