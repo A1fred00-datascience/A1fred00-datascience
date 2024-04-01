@@ -1,34 +1,58 @@
-# Hello, I'm Alfredo 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Alfredo Alfredo Serrano</h1>
+<h3 align="center"> Based in Boston | 📚 Data Scientist | 🎧 Ed-Tech Entrepreneur</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=A1fred00-datascience &label=Profile%20views&color=0e75b6&style=flat" alt="A1fred00-datascience " /> </p>
 
-## 🌍 Based in Boston | 📚 Data Science Enthusiast | 🎧 Ed-Tech Entrepreneur
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A1fred00-datascience &theme=onedark" alt="A1fred00-datascience " /></a> </p>
 
-Welcome to my GitHub profile! I'm passionate about using data to solve real-world problems and making data science accessible to everyone. Originally from Spain, I've navigated my way through the complexities of data science, from academic achievements in the U.S. to professional challenges as a Data Science Consultant.
+- 🔭 I’m currently working on [A personal Data Science Chatbot](https://github.com/A1fred00-datascience/Data_Science_Chatbot)
+- 👯 I’m looking to collaborate on [Machine Learning Projects - Breast Cancer detection through ML](https://github.com/A1fred00-datascience/Breast_Cancer_ML)
+- 🤝 I’m looking for help with [WHOOP - Personal Health & Fitness Data](https://github.com/A1fred00-datascience/WHOOP)
+- 🌱 I’m currently learning **CS50x - Harvard University**
+- 💬 Ask me about **Data Science, Machine Learning, Ed Tech Entrepreneurship**
+- 📫 How to reach me **alfredojr.serrano@gmail.com**
+- 👨‍💻 If you want to have a career development consultation - check my website **https://a1fred00-datascience.github.io/Personal-Portfolio/index.html**
+- 📝 I regularly write articles on **https://medium.com/@A1fred00**
+- 📄 Know about my experiences **https://docs.google.com/document/d/1XOBc0LIQ3IIGK1De6HnCJXah7r8lW8YN/edit**
+- ⚡ Connect with me! **https://www.linkedin.com/in/alfredoserrano-datascientist/**
 
-### 🎓 My Journey
+<div> <a href="https://www.linkedin.com/in/Alfredo Serrano Figueroa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/A1fred00-datascience " target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:alfredojr.serrano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Alfredo Serrano Figueroa" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="Alfredo Serrano Figueroa" height="30" width="40" /></a><a href="https://medium.com/@A1fred00" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@A1fred00" height="30" width="40" /></a></p>
 
-- **Academic Background:** Graduated summa cum laude in Big Data & Business Analytics from Suffolk University.
-- **Professional Path:** Currently working as a Data Science Consultant, where I tackle daily challenges with machine learning and business intelligence.
-- **Passion Project:** Co-founder and co-host of 'The Analytics Experience,' a bilingual podcast aimed at demystifying data science for Spanish and English speakers.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+</p>
 
-### 💡 What Drives Me
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience &layout=compact&theme=" alt=A1fred00-datascience />
 
-- **Democratizing Data Science:** Striving to make data science education more accessible, especially for non-native English speakers.
-- **Community Building:** Actively contributing to and fostering communities where knowledge sharing and support are paramount.
-- **Lifelong Learning:** Constantly exploring new technologies, methodologies, and perspectives in data science and beyond.
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=A1fred00-datascience &show_icons=true&locale=en&theme=dark" alt="A1fred00-datascience " /></p>
 
-### 🛠️ Skills & Technologies
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience &theme=dark" alt="A1fred00-datascience " /></p>
 
-- **Languages:** Python, R, SQL
-- **Tools & Platforms:** Visual Studio Code, Jupyter Notebook, TensorFlow, Tableau, GitHub
-- **Areas of Interest:** Machine Learning, Business Intelligence, Predictive Analytics
-
-### 📫 Let's Connect
-
-- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/alfredoserrano-datascientist/)
-- **Podcast:** [The Analytics Experience](https://open.spotify.com/show/5r05Ey4oEfhSOqg2Iai0Rk?si=b476832ca7ac4241)
-- **Instagram Account** [The Analytics Experience](https://www.instagram.com/theanalyticsexp/)
-
-
-Feel free to explore my repositories, where I share projects ranging from beginner-friendly tutorials to advanced data analysis explorations. Let's collaborate and learn from each other!
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/A1fred00-datascience ">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=A1fred00-datascience &theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A1fred00-datascience &theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A1fred00-datascience &theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A1fred00-datascience &theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A1fred00-datascience &theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=A1fred00-datascience &theme=react-dark"/>
