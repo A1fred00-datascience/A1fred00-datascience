@@ -1,6 +1,6 @@
 # Hello, I'm Alfredo 👋
 
-## 🌍 Based in Boston | 📚 Data Science Enthusiast | 🎧 Tech Podcaster
+## 🌍 Based in Boston | 📚 Data Science Enthusiast | 🎧 Ed-Tech Entrepenuer
 
 Welcome to my GitHub profile! I'm passionate about using data to solve real-world problems and making data science accessible to everyone. Originally from Spain, I've navigated my way through the complexities of data science, from academic achievements in the U.S. to professional challenges as a Data Science Consultant.
 
