@@ -24,8 +24,6 @@ If you want to have a career development consultation https://calendly.com/alfre
 
 💬 Ask me about Data Science, Career Development and Content Creation
 
-📫 How to reach me alfredojr.serrano@gmail.com
-
  </div>
 
  <div align="center"> 
