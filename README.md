@@ -41,8 +41,8 @@ If you want to have a career development consultation https://calendly.com/alfre
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,r,mysql,mongodb,vscode,jupyter,github,azure,gcp,anaconda" />
-    <img src="https://skillicons.dev/icons?i=keras,pandas,numpy,pytorch,plotly,scikit-learn,scipy,powerbi,jira,figma,canva,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=python,pycharm,tensorflow,r,mysql,postgres,mongodb,vscode,github,azure,gcp,anaconda" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,stackoverflow,keras,pandas,numpy,pytorch,plotly,scikit-learn,scipy,jira,figma,canva,notion" /><br>
 </div>
 
 
