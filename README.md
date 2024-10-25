@@ -19,8 +19,7 @@ If you want to have a career development consultation https://calendly.com/alfre
 
 📫 How to reach me alfredojr.serrano@gmail.com
 
-<h3 align="center"> 🌐Socials
-  
+## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfredoserrano-datascientist/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@A1fred00) 
 
 ## 💻Tech Stack
