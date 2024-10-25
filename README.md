@@ -54,7 +54,7 @@ If you want to have a career development consultation https://calendly.com/alfre
 <h2 align="center">✍️ Dev Quote</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
@@ -94,6 +94,19 @@ If you want to have a career development consultation https://calendly.com/alfre
 ### Repositories Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=A1fred00-datascience&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=A1fred00-datascience&theme=vue)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=A1fred00-datascience&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🤝 Let's Collaborate!
