@@ -33,12 +33,21 @@ If you want to have a career development consultation https://calendly.com/alfre
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true)
+### Contribution Stats
+![](https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=great-gatsby&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=A1fred00-datascience&theme=great-gatsby&hide_border=true)
+
+### Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&layout=compact)
+
+### GitHub Contributions Over Time
+![](https://github-profile-summary-cards.vercel.app/api/card?username=A1fred00-datascience&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/commits-chart?username=A1fred00-datascience&theme=vue)
+
+### Repositories Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=A1fred00-datascience&theme=vue)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=A1fred00-datascience&theme=vue)
+
 
 ## 🤝 Let's Collaborate!
 I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
