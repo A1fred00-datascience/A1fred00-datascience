@@ -45,11 +45,17 @@ If you want to have a career development consultation https://calendly.com/alfre
     <img src="https://skillicons.dev/icons?i=apple,windows,stackoverflow,pytorch,figma,notion" /><br>
 </div>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
+<h2 align="center">🏆GitHub Trophies</h2>
+<br/>
+<div align="center">
+    <img src="[https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4)" />
+</div>
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<h2 align="center">✍️ Dev Quote</h2>
+<br/>
+<div align="center">
+    <img src="[h[ttps://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox))" />
+</div>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 <br>
@@ -67,7 +73,7 @@ If you want to have a career development consultation https://calendly.com/alfre
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A1fred00-datascience/A1fred00-datascience/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A1fred00-datascience/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
