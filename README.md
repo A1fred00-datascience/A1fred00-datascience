@@ -48,13 +48,13 @@ If you want to have a career development consultation https://calendly.com/alfre
 <h2 align="center">🏆GitHub Trophies</h2>
 <br/>
 <div align="center">
-    <img src="[https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4)" />
+    <img src="https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
 <h2 align="center">✍️ Dev Quote</h2>
 <br/>
 <div align="center">
-    <img src="[h[ttps://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox))" />
+    <img src="ttps://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
