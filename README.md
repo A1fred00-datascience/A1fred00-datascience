@@ -70,12 +70,6 @@ If you want to have a career development consultation https://calendly.com/alfre
 
 <hr/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 ## 🤝 Let's Collaborate!
 I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
 
