@@ -60,11 +60,10 @@ If you want to have a career development consultation https://calendly.com/alfre
 <h2 align="center"> 📊 GitHub Stats </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=great-gatsby&hide_border=true" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&layout=compact"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=dark&hide_border=false" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 <br/><br/>
@@ -74,40 +73,10 @@ If you want to have a career development consultation https://calendly.com/alfre
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A1fred00-datascience/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/A1fred00-datascience/A1fred00-datascience/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-
-## 📊 GitHub Stats
-### Contribution Stats
-![](https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=great-gatsby&hide_border=true)
-
-### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&layout=compact)
-
-### GitHub Contributions Over Time
-![](https://github-profile-summary-cards.vercel.app/api/card?username=A1fred00-datascience&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/commits-chart?username=A1fred00-datascience&theme=vue)
-
-### Repositories Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=A1fred00-datascience&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=A1fred00-datascience&theme=vue)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=A1fred00-datascience&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## 🤝 Let's Collaborate!
 I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
