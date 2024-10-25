@@ -78,6 +78,7 @@ If you want to have a career development consultation https://calendly.com/alfre
   <br/><br/><br/>
 </div>
 
+
 ## 🤝 Let's Collaborate!
 I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
 
