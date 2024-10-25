@@ -54,14 +54,15 @@ If you want to have a career development consultation https://calendly.com/alfre
 <h2 align="center">✍️ Dev Quote</h2>
 <br/>
 <div align="center">
-    <img src="ttps://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </div>
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-A1fred00-datascience.vercel.app/?user=A1fred00-datascience&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=A1fred00-datascience&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=great-gatsby&hide_border=true" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&layout=compact"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
