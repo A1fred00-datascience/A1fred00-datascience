@@ -32,7 +32,7 @@ If you want to have a career development consultation https://calendly.com/alfre
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 📊GitHub Stats :
+## 📊GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A1fred00-datascience&theme=great-gatsby&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A1fred00-datascience&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
