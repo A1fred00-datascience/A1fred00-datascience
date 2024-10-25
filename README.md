@@ -19,7 +19,8 @@ If you want to have a career development consultation https://calendly.com/alfre
 
 📫 How to reach me alfredojr.serrano@gmail.com
 
-## 🌐Socials
+<h3 align="center"> 🌐Socials
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alfredoserrano-datascientist/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@A1fred00) 
 
 ## 💻Tech Stack
@@ -29,7 +30,7 @@ If you want to have a career development consultation https://calendly.com/alfre
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=A1fred00-datascience&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
+## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ## 📊GitHub Stats :
