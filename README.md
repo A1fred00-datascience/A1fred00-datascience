@@ -16,8 +16,6 @@
 
 👯 I’m looking to collaborate on Deep Learning projects
 
-🤝 I’m looking for help with WHOOP - Personal fitness project
-
 If you want to have a career development consultation https://calendly.com/alfredo-serrano-connect
 
 📝 I regularly write on https://www.linkedin.com/in/alfredoserrano-datascientist/
